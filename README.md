@@ -1,7 +1,9 @@
 # Readme Loja SKGW
 Primeiro projeto teste com arquivo README🚀
 
-[<img src="./tela.gif" alt="gif da tela inicial da loja skgw">]
+![tela](https://github.com/user-attachments/assets/9abd9aaa-bd93-4c6d-a8ba-eb7f181f1ace)
+
+
 
 ## Tecnologias utilizadas
 - HTML
